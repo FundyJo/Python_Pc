@@ -1,7 +1,5 @@
 import io
-
 import pyqrcode
-import os
 
 link = input("URL: ")
 
